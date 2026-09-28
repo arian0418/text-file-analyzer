@@ -1,6 +1,6 @@
 # Text File Analyzer
 
-A Python command-line program that compares two text files and analyzes the words they contain.
+A Python console program that compares two text files and analyzes the words they contain.
 
 ## Features
 
@@ -10,7 +10,7 @@ A Python command-line program that compares two text files and analyzes the word
 - Finds words shared by both files
 - Finds words that appear in only one file
 - Creates a combined list of words from both files
-- Calculates word-frequency tables
+- Calculates word frequency tables
 - Writes comparison results to `fileAnalysis.txt`
 - Handles missing input files
 
@@ -61,4 +61,4 @@ text-file-analyzer/
 
 ## About
 
-This project demonstrates Python fundamentals including file processing, functions, lists, dictionaries, loops, string manipulation, word-frequency counting, and comparison of data from multiple files.
+This project demonstrates Python fundamentals including file processing, functions, lists, dictionaries, loops, string manipulation, counting word frequencies, and comparison of data from multiple files.
